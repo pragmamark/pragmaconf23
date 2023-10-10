@@ -16,10 +16,10 @@
 *Day 2* 
  1. Making the most of Subscriptions - Anum Mian
  2. [Data flow in SwiftUI - from @State to @Observable and beyond! - Daniel Steinberg](https://github.com/pragmamark/pragmaconf23/files/12859806/Data_Flow_in_SwiftUI___Daniel_Steinberg.pdf)
- 3. Token Driven UI Development Valeria Farina & Firas Safa
+ 3. Token Driven UI Development - Valeria Farina & Firas Safa
  4. [Working with C and C++ in Apple environment - Richard Topchii](https://github.com/pragmamark/pragmaconf23/files/12859569/Working_with_C._C%2B%2B_._Swift___Richard_Topchii.pdf) 
- 5. Crossing Horizons with SCADE: Mastering iOS and Android Development with Swift Grigory Markin
- 6. Workout experiences for watchOS and iOS with WorkoutKit Audrey Sobgou Zebaze
- 7. Declarative 3D: Achieving seamless integration between SwiftUI and 3D Visualization Dominik Riegger
+ 5. Crossing Horizons with SCADE: Mastering iOS and Android Development with Swift - Grigory Markin
+ 6. Workout experiences for watchOS and iOS with WorkoutKit - Audrey Sobgou Zebaze
+ 7. Declarative 3D: Achieving seamless integration between SwiftUI and 3D Visualization - Dominik Riegger
  8. [A surprising real world 70x performance jump - Duncan Wilcox](https://github.com/pragmamark/pragmaconf23/files/12859561/A_surprising_real_world_70x_performance_jump___Duncan_Wilcox.pdf) 
  9. [Build A Binary Anna Beltrami](https://www.canva.com/design/DAFqavnayaQ/s2oza_D6POU9ZJgdIR2JBg/view)
