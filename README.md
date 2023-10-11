@@ -1,4 +1,4 @@
-# pragmaconf23 
+# Pragma Conference 2023 - Bologna 
  A collection of slide decks, videos and other material from the Pragma Conference 2023. http://pragmaconference.com/
 
 *Day 1* 
