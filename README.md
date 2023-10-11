@@ -8,7 +8,7 @@
  4. Heavy Metal: Creating beauty with SwiftUI shaders - Paul Hudson
  5. See More, Be More - Paolo Bianchi, Cristian Cascetta & Stefano Bodini
  6. TCA: Path towards Building Better SwiftUI Apps - Muralidharan Kathiresan
- 7. Supercharge Your Career: Beyond Mastering Swift - Maxim Cramer
+ 7. [The Art and Science of Communication - Maxim Cramer](https://github.com/pragmamark/pragmaconf23/files/12872371/The_Art_and_Science_of_Communication___Maxim_Cramer.pdf)
  8. [Animations for Everybody - Amos Gyamfi & Stefan Blos](https://github.com/pragmamark/pragmaconf23/files/12859801/Animations_for_everyone___Amos_Gyamfi._Stefan_Blos.pdf)
  9. Crossing Boundaries: iOS Engineer’s Journey in the Realm of React Native Development - Francesca Piccoli
  10. [Me, Myself and eyeOS - Stuff Mc](https://speakerdeck.com/stuffmc/me-myself-and-eyeos)
