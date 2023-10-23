@@ -7,7 +7,7 @@
  3. [Introduction into Reverse Engineering and iOS Security - Cyril Cermak](https://github.com/pragmamark/pragmaconf23/files/12859785/Introduction_into_reverse_security___Cyril_Cermak.pdf)
  4. Heavy Metal: Creating beauty with SwiftUI shaders - Paul Hudson
  5. See More, Be More - Paolo Bianchi, Cristian Cascetta & Stefano Bodini
- 6. TCA: Path towards Building Better SwiftUI Apps - Muralidharan Kathiresan
+ 6. [TCA: Path towards Building Better SwiftUI Apps - Muralidharan Kathiresan](https://www.slideshare.net/KMuralidharan91/the-composable-architecturepdf)
  7. [The Art and Science of Communication - Maxim Cramer](https://github.com/pragmamark/pragmaconf23/files/12872371/The_Art_and_Science_of_Communication___Maxim_Cramer.pdf)
  8. [Animations for Everybody - Amos Gyamfi & Stefan Blos](https://github.com/pragmamark/pragmaconf23/files/12859801/Animations_for_everyone___Amos_Gyamfi._Stefan_Blos.pdf)
  9. [Crossing Boundaries: iOS Engineer’s Journey in the Realm of React Native Development - Francesca Piccoli](https://github.com/pragmamark/pragmaconf23/files/13071618/Crossing_Boundaries_iOS_Engineers_Journey_in_the_Realm_of_React_Native_Development___Francesca_Piccoli.pdf)
