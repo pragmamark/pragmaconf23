@@ -14,7 +14,7 @@
  10. [Me, Myself and eyeOS - Stuff Mc](https://speakerdeck.com/stuffmc/me-myself-and-eyeos)
 
 *Day 2* 
- 1. Making the most of Subscriptions - Anum Mian
+ 1. [Making the most of Subscriptions - Anum Mian](https://github.com/pragmamark/pragmaconf23/files/13162096/Making_the_most_of_Subscriptions___Anum_Mian.pdf)
  2. [Data flow in SwiftUI - from @State to @Observable and beyond! - Daniel Steinberg](https://github.com/pragmamark/pragmaconf23/files/12859806/Data_Flow_in_SwiftUI___Daniel_Steinberg.pdf)
  3. [Token Driven UI Development - Valeria Farina & Firas Safa](https://github.com/TheInkedEngineer/TokenDrivenUITalk-2023)
  4. [Working with C and C++ in Apple environment - Richard Topchii](https://github.com/pragmamark/pragmaconf23/files/12859569/Working_with_C._C%2B%2B_._Swift___Richard_Topchii.pdf) 
