@@ -21,6 +21,6 @@
  5. Crossing Horizons with SCADE: Mastering iOS and Android Development with Swift - Grigory Markin
  6. [Why every developer should care about the environment](https://speakerdeck.com/stuffmc/why-every-developer-should-care-about-the-environment)
  7. [Workout experiences for watchOS and iOS with WorkoutKit - Audrey Sobgou Zebaze](https://github.com/pragmamark/pragmaconf23/files/12878249/Workout.experiences.for.watchOS.and.iOS.with.WorkoutKit.-.Audrey.Sobgou.Zebaze.pdf)
- 8. Declarative 3D: Achieving seamless integration between SwiftUI and 3D Visualization - Dominik Riegger
+ 8. [Declarative 3D: Achieving seamless integration between SwiftUI and 3D Visualization - Dominik Riegger](https://github.com/pragmamark/pragmaconf23/files/13225347/Declarative_3D_Achieving_seamless_integration_between_SwiftUI_and_3D_Visualization___Dominik_Riegger.pdf)
  9. [A surprising real world 70x performance jump - Duncan Wilcox](https://github.com/pragmamark/pragmaconf23/files/12859561/A_surprising_real_world_70x_performance_jump___Duncan_Wilcox.pdf) 
  10. [Build A Binary Anna Beltrami](https://www.canva.com/design/DAFqavnayaQ/s2oza_D6POU9ZJgdIR2JBg/view)
